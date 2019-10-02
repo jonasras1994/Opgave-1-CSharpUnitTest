@@ -1,0 +1,17 @@
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\obj\Debug\netcoreapp2.1\BogTest.csprojAssemblyReference.cache
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\obj\Debug\netcoreapp2.1\BogTest.csproj.CoreCompileInputs.cache
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\obj\Debug\netcoreapp2.1\BogTest.AssemblyInfoInputs.cache
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\obj\Debug\netcoreapp2.1\BogTest.AssemblyInfo.cs
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\bin\Debug\netcoreapp2.1\BogTest.deps.json
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\bin\Debug\netcoreapp2.1\BogTest.runtimeconfig.json
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\bin\Debug\netcoreapp2.1\BogTest.runtimeconfig.dev.json
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\bin\Debug\netcoreapp2.1\BogTest.dll
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\bin\Debug\netcoreapp2.1\BogTest.pdb
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\bin\Debug\netcoreapp2.1\ObligatoriskOpgave.dll
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\bin\Debug\netcoreapp2.1\ObligatoriskOpgave.pdb
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\obj\Debug\netcoreapp2.1\BogTest.csproj.CopyComplete
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\obj\Debug\netcoreapp2.1\BogTest.dll
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\BogTest\obj\Debug\netcoreapp2.1\BogTest.pdb

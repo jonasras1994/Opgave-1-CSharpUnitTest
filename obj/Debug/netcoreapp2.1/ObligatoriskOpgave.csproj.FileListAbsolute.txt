@@ -1,0 +1,9 @@
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\ObligatoriskOpgave\bin\Debug\netcoreapp2.1\ObligatoriskOpgave.deps.json
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\ObligatoriskOpgave\bin\Debug\netcoreapp2.1\ObligatoriskOpgave.dll
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\ObligatoriskOpgave\bin\Debug\netcoreapp2.1\ObligatoriskOpgave.pdb
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\ObligatoriskOpgave\obj\Debug\netcoreapp2.1\ObligatoriskOpgave.csprojAssemblyReference.cache
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\ObligatoriskOpgave\obj\Debug\netcoreapp2.1\ObligatoriskOpgave.csproj.CoreCompileInputs.cache
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\ObligatoriskOpgave\obj\Debug\netcoreapp2.1\ObligatoriskOpgave.AssemblyInfoInputs.cache
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\ObligatoriskOpgave\obj\Debug\netcoreapp2.1\ObligatoriskOpgave.AssemblyInfo.cs
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\ObligatoriskOpgave\obj\Debug\netcoreapp2.1\ObligatoriskOpgave.dll
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\ObligatoriskOpgave\obj\Debug\netcoreapp2.1\ObligatoriskOpgave.pdb
